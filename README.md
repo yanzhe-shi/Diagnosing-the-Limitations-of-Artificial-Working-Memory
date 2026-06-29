@@ -98,7 +98,7 @@ redistributed here.
 
 If you use this code, please cite the research paper:
 
-> [Author Name], "Developing Efficient Human-Like Memory Systems: Diagnosing the
+> Shi YanZhe, "Developing Efficient Human-Like Memory Systems: Diagnosing the
 > Limitations of Artificial Working Memory under Visual Interference and
 > Out-of-Distribution Inputs," NTU URECA Undergraduate Research Programme, 2026.
 
@@ -109,5 +109,5 @@ If you use this code, please cite the research paper:
 This research was supported by Nanyang Technological University under the URECA
 Undergraduate Research Programme.
 
-**Author:** [Your Name] · **Supervisor:** [Supervisor Name] ·
-[School / College], Nanyang Technological University
+**Author:** Shi YanZhe · **Supervisor:** Dr. Zhang Mengmi ·
+College of Computing and Data Science, Nanyang Technological University
