@@ -16,7 +16,7 @@ label-preserving manipulations.
 
 | File | Description |
 |------|-------------|
-| `URECA: Diagnosing-the-Limitations-of-Artificial-Working-Memory .ipynb` | Full evaluation notebook (Stages 0–3): data/model loading, perturbations, evaluation, figures, and result CSVs. |
+| `URECA_Diagnosing-the-Limitations-of-Artificial-Working-Memory .ipynb` | Full evaluation notebook (Stages 0–3): data/model loading, perturbations, evaluation, figures, and result CSVs. |
 
 > Note: the trained model, the WorM dataset, and the generated `paper_outputs/`
 > are **not** included (see *Data & model* below). Running the notebook
